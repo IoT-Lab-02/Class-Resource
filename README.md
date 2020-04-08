@@ -1,4 +1,5 @@
 # Class-Resource
 
-- Firebase Homeautomation
+- Firebase Home Automation
+
 https://youtu.be/21BCSAgQPfQ
